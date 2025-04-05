@@ -1,5 +1,5 @@
 package Computer_Science;
 
-public class First_class1 {
+public class Shutka_1 {
 //    second commit
 }
