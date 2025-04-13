@@ -1,9 +1,9 @@
-package Math_Descret;
+package Java.Loops;
 
 import java.util.Scanner;
 
 
-public class Task3 {
+public class Remainder {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
